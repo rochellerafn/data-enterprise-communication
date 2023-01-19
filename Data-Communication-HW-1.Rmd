@@ -1,0 +1,11 @@
+---
+title: "Data-Communication-HW-1"
+author: "Rochelle Rafn & Karol Orozco"
+date: "2023-01-19"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
