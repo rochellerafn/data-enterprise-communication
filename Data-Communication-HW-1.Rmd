@@ -14,7 +14,6 @@ library(tidyverse)
 mtcars %>% summary
 ```
 
-## step 10
 ```{r}
 mtcars %>% ggplot() + aes(x=cyl) + geom_bar() + theme_minimal()
 ```
