@@ -5,3 +5,6 @@
 
 # NO DATA
 data/
+posts/*/data/*
+
+.RData
